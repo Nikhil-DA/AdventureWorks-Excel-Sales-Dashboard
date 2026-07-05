@@ -57,7 +57,6 @@ The project uses a **Star Schema** built inside Power Pivot.
 
 The relationships enable multidimensional analysis across time, products, customers and geography.
 
-> *(Insert Data Model image here)*
 
 ---
 
@@ -132,9 +131,6 @@ Focuses on business performance over time.
 - Country
 - KPI Selection
 
-### Dashboard Preview
-
-*(Insert Screenshot Here)*
 
 ---
 
@@ -163,9 +159,6 @@ Focuses on identifying profit contributors.
 - Country-wise Profit Distribution
 - Interactive Country Selection
 
-### Dashboard Preview
-
-*(Insert Screenshot Here)*
 
 ---
 
@@ -260,13 +253,4 @@ AdventureWorks sample dataset provided by Microsoft for educational and analytic
 
 ---
 
-# 👨‍💻 Author
 
-**Nikhil Chauhan**
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: https://github.com/Nikhil-DA
-
----
-
-## ⭐ If you found this project useful, consider giving the repository a star!
