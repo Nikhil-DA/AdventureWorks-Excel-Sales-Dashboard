@@ -215,26 +215,6 @@ Contains
 
 ---
 
-# 📁 Repository Structure
-
-```
-AdventureWorks-Excel-Sales-Dashboard
-│
-├── Dashboard
-│   └── AdventureWorks_Sales_Dashboard.xlsm
-│
-├── Data
-│   └── AdventureWorks.xlsx
-│
-├── Images
-│   ├── Time_Analysis_Dashboard.png
-│   ├── Product_Customer_Analysis_Dashboard.png
-│   ├── Data_Model.png
-│   └── Dashboard_Cover.png
-│
-├── README.md
-└── LICENSE
-```
 
 ---
 
